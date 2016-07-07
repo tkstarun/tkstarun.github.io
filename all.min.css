@@ -751,6 +751,7 @@ code {
 
 .avatar__image {
     width: 75%;
+    border-radius: 50%;
     max-width: 250px;
     margin: 0 auto;
 }
